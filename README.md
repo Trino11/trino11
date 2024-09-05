@@ -10,7 +10,7 @@ Si quieres ponerte en contacto conmigo, puedes escribirme a trino@trinohost.com
 
 ## 📺 TVods
 ##### [Repo](https://github.com/Trino11/tvods_clips-front)
-Este es mi último proyecto, hecho en react planeaba ser un administrador/reproductor de videos de clips de juegos, pero por costes de servidor no he seguido, aunque se hizo algo de la interfaz.
+Este es mi último proyecto, hecho en react planeaba ser un administrador/reproductor de videos de clips de juegos, pero por costes de servidor no he seguido, aunque se hizo algo de la interfaz. Soportado sin ajustes en el código por cliente nativo y aplicación web.
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
