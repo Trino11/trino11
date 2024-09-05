@@ -19,6 +19,8 @@ Este es mi último proyecto, hecho en react planeaba ser un administrador/reprod
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/95d5bf5d-b5e0-4a26-a2d4-d8bdf5667c44)
+
 ## 🔩 TMods
 ##### [Repo](https://github.com/Trino11/TMods-Downloader)
 Aquí creé una aplicación para ayudame a mi y conocidos a gestionar paquetes de mods de juegos, la aplicacion de escritorio hecha con Electron.js se encarga de buscar el manifest en un servidor de ficheros estático, bajar el .zip, descomprimirlo e instalarlo en la carpeta correspondiente.
@@ -28,6 +30,8 @@ Aquí creé una aplicación para ayudame a mi y conocidos a gestionar paquetes d
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![image](https://github.com/user-attachments/assets/d1d6f74c-ea11-4f29-9f4e-cddf94af4818)
 
 ## 📄 TFG
 ##### [Repo (Backend auth)](https://github.com/Trino11/TFG-Backend_Auth-API_REST)
